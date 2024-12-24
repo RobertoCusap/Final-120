@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./secure_messaging/sender_project"]
+}

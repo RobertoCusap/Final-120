@@ -26,4 +26,4 @@ Run the Receiver using `python manage.py runserver 8001`
 
 ## Testing
 
-Use the test_messages.py script to test secure message transmission
+Use the `test_messages.py` script to test secure message transmission

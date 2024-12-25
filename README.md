@@ -20,11 +20,9 @@ This project consists of two Django REST Framework (DRF) applications: Sender an
 
 ## Start the servers
 
-Sender:
- python manage.py runserver 8000
+Run the Sender using `python manage.py runserver 8000`
 
-Receiver:
- python manage.py runserver 8001
+Run the Receiver using `python manage.py runserver 8001`
 
 ## Testing
 

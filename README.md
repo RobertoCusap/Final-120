@@ -6,10 +6,10 @@ This project consists of two Django REST Framework (DRF) applications: Sender an
 
 ## Prerequisites
 
--Python 3.12 or higher
--Django 4.0 or higher
--Django REST Framework
--Requests library for testing
+- Python 3.12 or higher
+- Django 4.0 or higher
+- Django REST Framework
+- Requests library for testing
 
 How to setup
 

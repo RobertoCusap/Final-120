@@ -13,10 +13,10 @@ This project consists of two Django REST Framework (DRF) applications: Sender an
 
 ## How to setup
 
-Clone the repository
-Create and activate a virtual environment
-Install dependencies
-Navigate to each project directory (sender_project and receiver_project) and run migration
+- Clone the repository
+- Create and activate a virtual environment
+- Install dependencies
+- Navigate to each project directory (sender_project and receiver_project) and run migration
 
 ## Start the servers
 

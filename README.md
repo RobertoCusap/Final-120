@@ -11,14 +11,14 @@ This project consists of two Django REST Framework (DRF) applications: Sender an
 - Django REST Framework
 - Requests library for testing
 
-##How to setup
+## How to setup
 
 Clone the repository
 Create and activate a virtual environment
 Install dependencies
 Navigate to each project directory (sender_project and receiver_project) and run migration
 
-##Start the servers
+## Start the servers
 
 Sender:
  python manage.py runserver 8000
@@ -26,6 +26,6 @@ Sender:
 Receiver:
  python manage.py runserver 8001
 
-##Testing
+## Testing
 
 Use the test_messages.py script to test secure message transmission
